@@ -21,7 +21,7 @@ std::string_view Journalist::getMessage() const
 
 void Journalist::subscribe(Newspaper& t_newspaper)
 { 
-    m_sig.connect(boost::bind(&Newspaper::update, &t_newspaper , _1)); 
+   m_sig.connect(boost::bind(&Newspaper::update, &t_newspaper , _1)); 
 }
 
 
