@@ -1,0 +1,20 @@
+Canada
+37.59
+Poland
+37.98
+Germany
+82.79
+United Kingdom
+66.44
+France
+66.99
+United States
+327.2
+Russia
+141.99
+China
+1389.61
+India
+1311.55
+Japan
+126.8
