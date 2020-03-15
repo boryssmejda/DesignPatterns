@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.6)
-project(TankFactory)
+project(AbstractEquipmentFactory)
 
 if (CMAKE_CXX_COMPILER_ID STREQUAL "Clang")
   set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -Wall -Werror -Wextra -Wshadow -Wnon-virtual-dtor -pedantic -std=c++17")
